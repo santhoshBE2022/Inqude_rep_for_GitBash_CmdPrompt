@@ -10,14 +10,14 @@ public class ContactTest
 	@Test(groups="smokeTest")
 	public void createContact() throws Throwable
 	{		
-		System.out.println("Executing createContact test");		
+		System.out.println("Executing createContact test....");		
 	}
 	
 	@Test(groups="regressionTest")
 	public void modifyContact()
 	{
 				
-		System.out.println("Executing modifyContact test");
+		System.out.println("Executing modifyContact test....");
 	}
 }
 
